@@ -6,10 +6,10 @@ This repository is for the distribution of peer review project assignment "Getti
 
 
 * This repository contains:
-+ README.md : this readme file.
-+ CodeBook.md: the codebook for the tidy dataset.
-+ run_analysis.R : The script to obtain the cleaned dataset from the original source data.
-+ tidy.csv: the dity dataset
+ + README.md : this readme file.
+ + CodeBook.md: the codebook for the tidy dataset.
+ + run_analysis.R : The script to obtain the cleaned dataset from the original source data.
+ + tidy.csv: the dity dataset
 
 
 
