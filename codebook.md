@@ -91,13 +91,13 @@ This data contains the activity of 30 different subjects. The subjects IDs range
 "frequencyBodyGyroscope-std()-Y"                
 "frequencyBodyGyroscope-std()-Z"
 
-"frequencyBodyAccelerometerMagnitude-mean()"     
+"frequencyBodyAccelerometerMagnitude-mean()"
 "frequencyBodyAccelerometerMagnitude-std()"
-"frequencyBodyAccelerometerJerkMagnitude-mean()" 
- 
+"frequencyBodyAccelerometerJerkMagnitude-mean()"
+"frequencyBodyAccelerometerJerkMagnitude-std()"
 
-"frequencyBodyGyroscopeMagnitude-mean()"        
-"frequencyBodyGyroscopeMagnitude-std()"          
-"frequencyBodyGyroscopeJerkMagnitude-mean()"     
-"frequencyBodyGyroscopeJerkMagnitude-std()"     
+"frequencyBodyGyroscopeMagnitude-mean()"
+"frequencyBodyGyroscopeMagnitude-std()"
+"frequencyBodyGyroscopeJerkMagnitude-mean()"
+"frequencyBodyGyroscopeJerkMagnitude-std()"
  
