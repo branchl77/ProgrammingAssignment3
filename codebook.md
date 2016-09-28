@@ -13,6 +13,4 @@ Data was collected during the Performance of 6 different activities.
 
 ## SubjectID [Numeric]
 
-This data contains the activity of 30 different There were  subject who performed the activity. . 
-They have been divided into 2 groups for testing and training.
-For the tidy dataset the 2 groups have been mixed again in a single dataset.
+This data contains the activity of 30 different subjects. their IDs ranged from 1 to 30. The data colected was divided into 2 groups for testing and training. For the tidy dataset the 2 groups have been mixed again in a single dataset.
