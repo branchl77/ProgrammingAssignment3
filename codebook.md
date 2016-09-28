@@ -23,6 +23,7 @@ This data contains the activity of 30 different subjects. The subjects IDs range
 * Magnitude is calculated as Euclidean norm of the corresponding measures
 * FFT variables represent the application of a Fast Fourier Transform of the corresponding signals
 
+
 "timeBodyAccelerometer-mean()-X"                 
 "timeBodyAccelerometer-mean()-Y"                 
 "timeBodyAccelerometer-mean()-Z"                
