@@ -5,7 +5,7 @@
 This repository is for the distribution of peer review project assignment "Getting and Cleaning Data" Coursera Data Science course #3. The purpose of this project is to demonstrate my skills and knowledge of cleaning datasets. A tidy dataset has been prepared so it can be used for later analysis.
 
 
-This repository contains:
+* This repository contains:
 
 *README.md : this readme file.
 *CodeBook.md: the codebook for the tidy dataset.
